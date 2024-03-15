@@ -1,6 +1,6 @@
 ---
 title: Welcome to Quartz
 ---
+Welkom jij zoekt naar paginas nou hier beneden staat ie
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[The Whispers]]

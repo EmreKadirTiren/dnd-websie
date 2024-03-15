@@ -1,0 +1,1 @@
+I don't really ever use these notes. My players manage their backgrounds via their character sheets.
