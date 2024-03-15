@@ -1,7 +1,9 @@
 ---
-ImportedOn: Saturday, 18 December 2021 8:41:47 PM
+title: Example Title
+Draft: 
 tags:
   - Category/Individual
+ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 Alignment: Chaotic Good
 Gender: Female
 Race: Human (secretly a half-elf)

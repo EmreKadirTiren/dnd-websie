@@ -1,5 +1,5 @@
 # The Continent Solesticea
-![[content/z_Attachments/Solesticea_map.png]]
+
 ```leaflet 
 id: Solesticea_map
 image: [[Solesticea_map.png]] 

@@ -1,7 +1,9 @@
 ---
-ImportedOn: Saturday, 18 December 2021 8:41:47 PM
+title: Example Title
+Draft: 
 tags:
   - Category/Settlement
+ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 Community-Size: Outpost
 Alignment: Chaotic Evil
 Government: Autocracy

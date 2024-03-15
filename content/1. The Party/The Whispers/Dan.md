@@ -1,7 +1,9 @@
 ---
-ImportedOn: Saturday, 18 December 2021 8:41:47 PM
+title: Example Title
+Draft: true
 tags:
   - Category/Individual
+ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 Alignment: Neutral Good
 Gender: Male
 Race: Aarakocra
@@ -52,7 +54,7 @@ Personality-Traits: Anxious
 
 
 ## Story 
-Het verhaal begint op de [[airpla]]
+Het verhaal begint op de [[Air Plane]] waar hij door een krachtige magie de kracht heeft om door planes te reizen maar dan reist hij plotseling in een gevangeniscel waar hij zijn ability verliest en nu vast zit. In dit lab wordt hij geexperimenteerd en 
 
 ## Motivation and Philosophy
 **Mental Traits**: Ambitious, Cautious, Complacent, Courageous, Cowardly, Decisive, Impatient, Independent, Intelligent, Religious, Skillful, Stupid, Superstitious, Tenacious, Adaptive, Analytical, Creative, Patient, Perceptive, Conformist, Emotional, Inattentive, Incompetent, Indecisive, Reckless, Secular, Skeptical, Uninventive

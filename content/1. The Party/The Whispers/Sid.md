@@ -1,7 +1,9 @@
 ---
-ImportedOn: Saturday, 18 December 2021 8:41:47 PM
+title: Example Title
+Draft: true
 tags:
   - Category/Individual
+ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 Alignment: Chaotic Lawfull
 Gender: Male
 Race: Owlin
