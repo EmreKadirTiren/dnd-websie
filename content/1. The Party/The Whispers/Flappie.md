@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Flappie
 Draft: 
 tags:
   - Category/Individual

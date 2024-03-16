@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Arsan
 Draft: 
 tags:
   - Category/Individual
@@ -45,8 +45,8 @@ Personality-Traits: Crazy
 
 **Social Traits**: Bossy, Cruel, Dependable, Dishonest, Friendly, Generous, Helpful, Honest, Impartial, Loyal, Peaceful, Quiet, Secretive, Selfish, Stingy, Suspicious, Talkative, Tolerant, Trusting, Unfriendly, Selfless, Deferential, Demanding, Forthcoming, Intolerant, Lenient, Uncooperative, Unfair, Unfaithful, Unreliable, Violent
 
-| STR | DEX | CON | WIS | INT | CHA |
-|---|---|---|---|---|---|
+| STR   | DEX   | CON   | WIS   | INT   | CHA   |
+| ----- | ----- | ----- | ----- | ----- | ----- |
 | 0(+0) | 0(+0) | 0(+0) | 0(+0) | 0(+0) | 0(+0) |
 
 # Story

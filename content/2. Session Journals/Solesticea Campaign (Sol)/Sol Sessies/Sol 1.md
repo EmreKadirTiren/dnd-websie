@@ -2,8 +2,11 @@
 title: Example Title
 Draft: 
 tags:
-  - timeline
+  - Category/Sessions
+  - Session_1
   - SessionJournals
+  - timeline
+Session: "1"
 ---
 
 <div
@@ -32,7 +35,7 @@ tags:
 Brief session overview.
 1. De avonturiers verzamelen zich in een herberg genaamd "Drunk Tard", behalve [[Dan]].
 2. Een adelaarachtige humanoid valt uit de lucht en sluit zich aan bij het gesprek.
-3. De herbergier, Dorian, vraagt de groep om gestolen voedsel terug te halen van kobolds.
+3. De herbergier, [[Dorian]], vraagt de groep om gestolen voedsel terug te halen van kobolds.
 4. De groep gaat op weg naar de grot van de kobolds en verslaat enkele kobolds.
 5. Ze vinden het gestolen voedsel in een kamer, waar [[Flappie]] bevriend raakt met een kobold.
 6. [[Dan]] wordt boos en doodt de kobold, waarna [[Arsan]] ingrijpt.
@@ -46,21 +49,21 @@ Brief session overview.
 14. [[Arsan]] en [[Flappie]] houden de wacht en spotten het monster.
 15. Ze doden het monster en keren terug naar de herberg.
 16. Ze geven het hoofd van het monster aan Kobold vriend en bespreken hoe hij zich bij de roversgilde kan aansluiten.
-17. De volgende ochtend komt Sebastian, een jongen die weg wil van zijn vader, om hulp vragen.
-18. [[Arsan]] helpt Sebastian en doet alsof hij haar eigen zoon is.
-19. Na een paar dagen neemt [[Arsan]] afscheid van Sebastian.
+17. De volgende ochtend komt [[Sebastian]], een jongen die weg wil van zijn vader, om hulp vragen.
+18. [[Arsan]] helpt [[Sebastian]] en doet alsof hij haar eigen zoon is.
+19. Na een paar dagen neemt [[Arsan]] afscheid van [[Sebastian]].
 
 -------
 
-Dit verhaal begint in een herberg waar een groep avonturiers zich verzamelt, behalve [[Dan]]. Een adelaarachtige humanoid valt uit de lucht en sluit zich aan bij het gesprek. De herbergier, Dorian, vraagt hen om gestolen voedsel terug te halen van kobolds. De groep gaat op weg naar de koboldengrot, verslaat enkele kobolds en vindt het gestolen voedsel. [[Dan]] wordt boos en doodt een kobold, waarna [[Arsan]] ingrijpt. Ze ontdekken dat een monster de kobolds dwong om voedsel te stelen en besluiten het monster te doden. Na een gevecht doden ze het monster en keren ze terug naar de herberg. Daar helpt [[Arsan]] een jongen genaamd Sebastian, die weg wil van zijn vader. Na een paar dagen reizen neemt [[Arsan]] afscheid van Sebastian.
+Dit verhaal begint in een herberg waar een groep avonturiers zich verzamelt, behalve [[Dan]]. Een adelaarachtige humanoid valt uit de lucht en sluit zich aan bij het gesprek. De herbergier, [[Dorian]] , vraagt hen om gestolen voedsel terug te halen van kobolds. De groep gaat op weg naar de koboldengrot, verslaat enkele kobolds en vindt het gestolen voedsel. [[Dan]] wordt boos en doodt een kobold, waarna [[Arsan]] ingrijpt. Ze ontdekken dat een monster de kobolds dwong om voedsel te stelen en besluiten het monster te doden. Na een gevecht doden ze het monster en keren ze terug naar de herberg. Daar helpt [[Arsan]] een jongen genaamd [[Sebastian]], die weg wil van zijn vader. Na een paar dagen reizen neemt [[Arsan]] afscheid van [[Sebastian]].
 
 ## Map
 ![[Solesticea]]
 ## Key Learnings
 
--  Conflict Resolution: Dan could have explored peaceful alternatives instead of immediately resorting to violence with the kobold, potentially avoiding bloodshed and forming alliances through negotiation.
-- Empathy and Understanding: Dan's lack of empathy towards the kobold demonstrates a need for understanding and considering perspectives different from his own, leading to a more compassionate response.
-- Teamwork and Collaboration: The party should improve communication and collaboration to work more effectively as a team, enhancing their combat and problem-solving abilities.
+-  Conflict Resolution: [[Dan]]  could have explored peaceful alternatives instead of immediately resorting to violence with the kobold, potentially avoiding bloodshed and forming alliances through negotiation.
+- Empathy and Understanding: [[Dan]]'s lack of empathy towards the kobold demonstrates a need for understanding and considering perspectives different from his own, leading to a more compassionate response.
+- Teamwork and Collaboration: [[The Whispers]] should improve communication and collaboration to work more effectively as a team, enhancing their combat and problem-solving abilities.
 - Responsibility and Accountability: Dan's impulsive actions highlight the importance of taking responsibility for one's behavior and its consequences, fostering character growth over time.
 - Decision-Making and Planning: Thorough planning and strategizing before entering dangerous situations, like the kobold's lair, could increase the party's chances of success and minimize risks.
 - Conflict Resolution Skills: Developing better conflict resolution skills, such as de-escalation and diplomacy, could help the party avoid unnecessary confrontations and build better relationships with NPCs.
@@ -68,9 +71,9 @@ Dit verhaal begint in een herberg waar een groep avonturiers zich verzamelt, beh
   
 ## Who Did They Meet?
  
-**[[Snip]]** Description 
+**[[Snip]]** is de koboldd vriend die ze gevonden hebben in [[De got van de BBC]].
  
-**[[Sebastian]]** Description 
+**[[Sebastian]]** is de persoon die wilt dat we naar Haffen gaan
  
  
 ## Items Of Importance
@@ -81,12 +84,12 @@ Dit verhaal begint in een herberg waar een groep avonturiers zich verzamelt, beh
 ## What Worked 
  
 - **Teamwork and Cooperation**: The adventure highlights the importance of teamwork and cooperation among the group of adventurers. They work together to overcome challenges and achieve their goals.
-- **Understanding and Empathy**: [[Arsan]] demonstrates understanding and empathy towards Sebastian, showing compassion for his situation and helping him despite not being directly related to her quest. 
+- **Understanding and Empathy**: [[Arsan]] demonstrates understanding and empathy towards [[Sebastian]], showing compassion for his situation and helping him despite not being directly related to her quest. 
 - **Consequences of Actions**: [[Dan]]'s impulsive actions, such as killing the kobold, have consequences within the story. This serves as a reminder of how individual actions can impact the group and the world around them.
 - **Problem-Solving and Adaptability**: The adventurers encounter various obstacles throughout their journey, requiring them to think critically and adapt their strategies to overcome them.
 - **Communication and Negotiation**: Negotiating with [[Snip]] and attempting to find a peaceful resolution with the kobold leader showcase the importance of communication and negotiation skills in resolving conflicts.
-- **Acceptance and Inclusion**: Despite their differences, the group accepts Sebastian and helps him, emphasizing the importance of acceptance and inclusion regardless of background or circumstances.   
-- **Responsibility and Duty**: [[Arsan]] takes on the responsibility of helping Sebastian, even though it's not directly related to her main quest, highlighting a sense of duty towards those in need.
+- **Acceptance and Inclusion**: Despite their differences, the group accepts [[Sebastian]] and helps him, emphasizing the importance of acceptance and inclusion regardless of background or circumstances.   
+- **Responsibility and Duty**: [[Arsan]] takes on the responsibility of helping [[Sebastian]], even though it's not directly related to her main quest, highlighting a sense of duty towards those in need.
 - **Resourcefulness**: The adventurers demonstrate resourcefulness by finding alternative solutions to problems, such as [[Flappie]] discussing joining the rogue guild with [[Snip]] as a potential solution to their situation.
  
 ## Session Note

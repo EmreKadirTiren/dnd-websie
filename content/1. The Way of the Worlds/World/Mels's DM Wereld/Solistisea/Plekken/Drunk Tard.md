@@ -1,6 +1,6 @@
 ---
 title: Example Title
-Draft: 
+Draft: true
 tags:
   - Category/Settlement
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM

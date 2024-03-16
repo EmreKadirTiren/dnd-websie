@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Dan
 Draft: true
 tags:
   - Category/Individual
@@ -18,7 +18,7 @@ Mental-Traits: Loyaal
 Expertise: Wise knows a lot
 Status-Traits: Ambituios
 Physical-Traits: Clumsy
-Personality-Traits: Anxious
+Personality-Traits: Childish, Energetic
 ---
 
 ## Overview
@@ -54,34 +54,34 @@ Personality-Traits: Anxious
 
 
 ## Story 
-Het verhaal begint op de [[Air Plane]] waar hij door een krachtige magie de kracht heeft om door planes te reizen maar dan reist hij plotseling in een gevangeniscel waar hij zijn ability verliest en nu vast zit. In dit lab wordt hij geexperimenteerd en 
+Het verhaal begint op de [[Air Plane]] waar hij door een krachtige magie de kracht heeft om door planes te reizen maar dan reist hij plotseling in een gevangeniscel waar hij zijn ability verliest en nu vast zit. In dit lab wordt hij geexperimenteerd en na een paar jaar lukt hem op een pijnlijke manier te ontsnappen. Hierna ging [[Dan]] 15 jaar lang reizen in de zee van tijd waar hij niet ouder werd. En toen viel hij er door en kwam hij terecht in een tavern [[Drunk Tard]].
 
 ## Motivation and Philosophy
-**Mental Traits**: Ambitious, Cautious, Complacent, Courageous, Cowardly, Decisive, Impatient, Independent, Intelligent, Religious, Skillful, Stupid, Superstitious, Tenacious, Adaptive, Analytical, Creative, Patient, Perceptive, Conformist, Emotional, Inattentive, Incompetent, Indecisive, Reckless, Secular, Skeptical, Uninventive
+**Mental Traits**: Ambitious Courageous,Intelligent, Skillful.
 
 ## Personal Life
+/
 
 ## Professional Life
 **Expertise**: Scholar,
 
 ## Other Endeavors
-
+/
 
 ## Possessions
-**Special Equipment**: 
-
+**Special Equipment**: Hij heeft vleugels waarme hij 30 foet per 6 seconde kan reizen
 
 
 ## Resources
-**Status Traits**: Lucky, Popular, Influential, Anonymous, Disreputable, Famous, Helpless, Irrelevant, Isolated, Lower-class, Poor, Powerful, Reputable, Uneducated, Unpopular, Upper-class, Wealthy, Well-connected, Well-educated
+**Status Traits**: Ambitious
 
 
 ## Abilities
-**Physical Traits**: Clumsy, Quick, Weak, Conspicuous, Fragile, Graceful, Ponderous, Stealthy, Strong, Tough
+**Physical Traits**: Clumsy
 
 
 ## Methods
-**Personality Traits**: Anxious, Cheerful, Childish, Energetic, Enthusiastic, Funny
+**Personality Traits**:Childish, Energetic
 
 
 
