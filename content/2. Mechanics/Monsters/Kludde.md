@@ -1,0 +1,4 @@
+Resistence:
+* Magic Resistence 
+* 
+Imunity:
