@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Sol 1
 Draft: 
 tags:
   - Category/Sessions

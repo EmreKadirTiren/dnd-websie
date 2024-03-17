@@ -1,9 +1,11 @@
 ---
-title: Example Title
+title: Sol 5
 Draft: true
 tags:
   - timeline
   - SessionJournals
+  - "#Session_5"
+  - Category/Sessions
 Session: "5"
 ---
 

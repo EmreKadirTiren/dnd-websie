@@ -39,10 +39,10 @@ En natuurlijk sessie journaals dat is een combinatie van mijn aantekening plus t
 * [[Sol Sessies]]
 
     * [[Sol 1]]
-
     * [[Sol 2]]
-
     * [[Sol 3]]
+    * [[Sol 4]] 
+    * [[Sol 5]] 
 
   ---------
   Vragen met antwoord voor DM's of spelers kunnen hier gevonden worden:
