@@ -4,7 +4,7 @@ Draft: false
 tags:
   - Category/Home
 ---
-4rWelkom [[Mels]], [[Anna]], [[Olivier]], [[Quinten]], [[Nick]] of [[Emre]]
+Welkom [[Mels]], [[Anna]], [[Olivier]], [[Quinten]], [[Nick]] of [[Emre]]
 
 Ben jij dat niet. WTF! QUINTIJN HEB JE DIT OOK GEVONDEN.
 
@@ -44,7 +44,9 @@ En natuurlijk sessie journaals dat is een combinatie van mijn aantekening plus t
 
     * [[Sol 3]]
 
-  
+  ---------
+  Vragen met antwoord voor DM's of spelers kunnen hier gevonden worden:
+  * [[Vragen]]
 
 ---
 

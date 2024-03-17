@@ -1,121 +1,91 @@
 ---
-title: Example Title
-Draft: 
+title: Snip
+Draft: false
 tags:
   - Category/Individual
+  - "#Individual/Snip"
 ImportedOn: Saturday, 18 December 2021 8:41:47 PM
 Alignment: Neutral
 Gender: Male
-Race: Human
-Class: Barbarian
-Age: Adult
-Challenge: CR 1
+Race: Kobold
+Class: Rogue
+Age: Adolecent
+Challenge: CR 1/8
+Type: NPC
 Character-Role: Friend
-Condition: Dead
-Appearance-Traits: Stylish
-Social-Traits: Bossy
-Mental-Traits: Ambitious
-Expertise: Administrative
-Status-Traits: Lucky
-Physical-Traits: Clumsy
-Personality-Traits: Anxious
+Condition:
 ---
 ## Overview
 **Alignment**: Neutral
 
 **Gender**: Male
 
-**Race**: Human
+**Race**: Kobold 
 
-**Class**: Barbarian, Bard, Cleric, Druid, Fighter, Monk, None, Paladin, Ranger, Rogue, Sorcerer, Warlock, Wizard, Other
+**Class**: Rogue
 
-**Age**: Adult
+**Age**: Adolecent
 
-**Challenge**: CR 1
+**Challenge**: CR 1/8
 
-**Character Role**: Friend, Adversary, Neutral, Main Character, Supporting Character, Color, Possible Rival, Possible Romance
+**Character Role**: Friend
 
-**Condition**: Dead, Dying, Injured, Missing, Presumed Dead, Sick, Undead
+**Condition**: /
 
 ### Portrait
 
 ## Profile
 **Appearance Traits**: Stylish, Ugly, Beautiful, Diminutive, Disheveled, Filthy, Flabby, Hulking, Muscular, Ornate, Pristine, Slender, Tasteless, Towering, Unadorned
 
-**Social Traits**: Bossy, Cruel, Dependable, Dishonest, Friendly, Generous, Helpful, Honest, Impartial, Loyal, Peaceful, Quiet, Secretive, Selfish, Stingy, Suspicious, Talkative, Tolerant, Trusting, Unfriendly, Selfless, Deferential, Demanding, Forthcoming, Intolerant, Lenient, Uncooperative, Unfair, Unfaithful, Unreliable, Violent
+**Social Traits**: Friendly , Secretive, Selfish, Unfait
 
-| STR | DEX | CON | WIS | INT | CHA |
-|---|---|---|---|---|---|
-| 0(+0) | 0(+0) | 0(+0) | 0(+0) | 0(+0) | 0(+0) |
-
-Placeholder Statblock
-
-```encounter
-
-name: Example
-
-creatures:
-
- - 3: Commoner
-
-```
+| STR   | DEX    | CON   | WIS   | INT   | CHA   |
+| ----- | ------ | ----- | ----- | ----- | ----- |
+| 7(-2) | 15(+2) | 9(-1) | 7(-2) | 8(-1) | 8(-1) |
 
 ```statblock
 
-monster: Commoner
+monster: Kobold
 
 ```
 
-Placeholder
 
 ## Story
 Placeholder
 
 ## Motivation and Philosophy
-**Mental Traits**: Ambitious, Cautious, Complacent, Courageous, Cowardly, Decisive, Impatient, Independent, Intelligent, Religious, Skillful, Stupid, Superstitious, Tenacious, Adaptive, Analytical, Creative, Patient, Perceptive, Conformist, Emotional, Inattentive, Incompetent, Indecisive, Reckless, Secular, Skeptical, Uninventive
-
-Placeholder
+**Mental Traits**: Ambitious, Courageous, Patient, Independent, Skillful, Stupid, Creative.
 
 ## Personal Life
-Placeholder
+UNKNOWN
 
 ## Professional Life
-**Expertise**: Administrative, Artist, Counselor, Crafter, Criminal, Engineer, Entertainer, Healer, Laborer, Leader, Merchant, Other, Outdoorsman, Protector, Researcher, Scholar, Services, Transporter, Warrior
-
-Placeholder
+**Expertise**: Criminal, Con-Artist
 
 ## Other Endeavors
-Placeholder
+
 
 ## Possessions
-**Special Equipment**: Placeholder
-
-Placeholder
+**Special Equipment**: UNKNOWN
 
 ## Resources
-**Status Traits**: Lucky, Popular, Influential, Anonymous, Disreputable, Famous, Helpless, Irrelevant, Isolated, Lower-class, Poor, Powerful, Reputable, Uneducated, Unpopular, Upper-class, Wealthy, Well-connected, Well-educated
+**Status Traits**: Anonymous,Lower-class, Poor, Uneducated, Unpopular, Well-connected
 
-Placeholder
 
 ## Abilities
-**Physical Traits**: Clumsy, Quick, Weak, Conspicuous, Fragile, Graceful, Ponderous, Stealthy, Strong, Tough
-
-Placeholder
+**Physical Traits**: Quick, Weak
 
 ## Methods
-**Personality Traits**: Anxious, Calm, Charming, Cheerful, Childish, Energetic, Enthusiastic, Funny, Gentle, Humble, Impolite, Mature, Optimistic, Pessimistic, Proud, Respectful, Sensitive, Eccentric, Smooth, Articulate, Subtle, Apathetic, Awkward, Caring, Depressed, Dull, Humorless, Incoherent, Listless, Overt, Repulsive, Savvy, Thick-skinned, Wrathful, Cold, Naïve
-
-Placeholder
+**Personality Traits**: Calm, 
 
 ## Background
-**Birth Date**: Monday, 1 January -20000 12:00:00 AM
+**Birth Date**: /
 
-**Marriage Date**: Monday, 1 January -20000 12:00:00 AM
+**Marriage Date**: /
 
-**Death Date**: Monday, 1 January -20000 12:00:00 AM
+**Death Date**: /
 
-Placeholder
 
 ## Additional Details
-Placeholder
+
 
