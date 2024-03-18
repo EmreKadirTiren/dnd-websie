@@ -12,7 +12,7 @@ At the top of your repository on GitHub.com's Quick Setup page, click the clipb
 
 ![[github-quick-setup.png]]
 
-In your terminal of choice, navigate to the root of your Quartz folder. Then, run the following commands, replacing `REMOTE-URL` with the URL you just copied from the previous step.
+In your terminal of choice, navigate to the root of your Quartz folder. Then, run the following command, replacing `REMOTE-URL` with the URL you just copied from the previous step.
 
 ```bash
 # list all the repositories that are tracked
