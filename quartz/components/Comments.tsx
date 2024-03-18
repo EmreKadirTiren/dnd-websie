@@ -6,25 +6,25 @@ import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 function Footer(props: QuartzComponentProps) {
   return (
-    <script src="https://giscus.app/client.js"
-      data-repo="xy-241/CS-Notes"
-      data-repo-id="R_kgDOK0yNDg"
-      data-category="General"
-      data-category-id="DIC_kwDOK0yNDs4CbdOh"
-      data-mapping="pathname"
-      data-strict="0"
-      data-reactions-enabled="1"
-      data-emit-metadata="0"
-      data-input-position="top"
-      data-theme="dark_protanopia"
-      data-lang="en"
-      data-loading="lazy"
-      crossOrigin="anonymous"
-      async>
-    </script>
+  <script src="https://giscus.app/client.js"
+        data-repo="EmreKadirTiren/dnd-websie"
+        data-repo-id="R_kgDOLh72yQ"
+        data-category="[ENTER CATEGORY NAME HERE]"
+        data-category-id="[ENTER CATEGORY ID HERE]"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="preferred_color_scheme"
+        data-lang="en"
+        crossorigin="anonymous"
+        async>
+</script>
   )
 }
 
 Footer.beforeDOMLoaded = commentsScript
 
 export default (() => Footer) satisfies QuartzComponentConstructor
+
